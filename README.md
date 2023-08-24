@@ -24,7 +24,7 @@ Si estás enfrentando el error Oxc000000e al intentar arrancar Windows, sigue es
      ```
 
 4. **Verifica errores en el disco duro:**
-   - Permanece en la línea de comandos y usa el comando `chkdsk /f /r` para verificar y reparar errores en el disco duro.
+   - Permanece en la línea de comandos y usa el comando ```chkdsk /f /r``` para verificar y reparar errores en el disco duro.
 
 5. **Restauración del sistema:**
    - Si tienes un punto de restauración del sistema creado antes de que apareciera el error, intenta restaurar el sistema a ese punto.

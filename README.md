@@ -35,3 +35,7 @@ Si estás enfrentando el error Oxc000000e al intentar arrancar Windows, sigue es
    - Una vez en el Modo Seguro, deshaz cambios recientes, ejecuta diagnósticos y escaneos de antivirus, y soluciona problemas.
 
 Es importante recordar que manipular la BIOS y el sistema operativo puede tener riesgos. Si no te sientes cómodo realizando estos pasos por ti mismo, busca ayuda de un profesional o alguien con experiencia en la materia.
+
+## Licencia
+Este proyecto está bajo la licencia [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/). Puedes compartir, adaptar y utilizar estos archivos siempre que des el crédito correspondiente al autor original.
+
